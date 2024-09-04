@@ -38,7 +38,7 @@ Through this project, I gained valuable insights and experiences:
 
 Explore the interactive dashboard to delve deeper into the insights from EV Market Analysis from 2022 to 2024:
 
-[Live Dashboard](https://app.powerbi.com/groups/me/reports/cf3ba4d4-2055-48b7-85b7-256d9fdfe3d1/708f9dc9e4918b60b705?experience=power-bi)
+[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTAzMjFhZjQtNjVmYi00YzRjLThiMzQtMWJiY2MwNzk5YjA3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Conclusion
 
