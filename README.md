@@ -42,6 +42,6 @@ Explore the interactive dashboard to delve deeper into the insights from EV Mark
 
 ## Conclusion
 
-This project not only showcases technical skills in data analysis but also emphasizes the ability to communicate data-driven stories effectively. It stands as a testament to meticulous analysis and storytelling in the realm of election data.
+This project not only showcases technical skills in data analysis but also emphasizes the ability to communicate data-driven stories effectively. It stands as a testament to meticulous analysis and storytelling in the realm of EV data.
 
 Feel free to reach out for any questions or further details!
